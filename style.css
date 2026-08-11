@@ -264,7 +264,7 @@ button {
 
   backdrop-filter: blur(10px);
 
-  box-shadow: 0 8px 24px rgba(78, 52, 46, 0.14);
+  box-shadow: 0 8px 24px rgba(131, 135, 43, 0.14);
 }
 
 .brand {
@@ -319,7 +319,7 @@ button {
 
   border-radius: 999px;
 
-  background: rgba(255, 255, 255, 0.12);
+  background: rgba(255, 23, 97, 0.233);
 
   font-size: 0.86rem;
 }
@@ -398,7 +398,7 @@ button {
 
   text-align: center;
 
-  box-shadow: 0 20px 36px rgba(153, 27, 27, 0.2);
+  box-shadow: 0 20px 36px rgba(37, 27, 153, 0.2);
 }
 
 .hero-badge span {
@@ -490,27 +490,27 @@ button {
 }
 
 .food-burger {
-  background: linear-gradient(145deg, #fde8c7, #f9c784);
+  background: linear-gradient(145deg, #feeed3, #fb88be);
 }
 
 .food-lasagna {
-  background: linear-gradient(145deg, #f9ddc5, #e9a66f);
+  background: linear-gradient(145deg, #f9ddc5, #fb88be);
 }
 
 .food-risotto {
-  background: linear-gradient(145deg, #f5e6ca, #dab67b);
+  background: linear-gradient(145deg, #f5e6ca, #fb88be);
 }
 
 .food-pizza {
-  background: linear-gradient(145deg, #fcd9be, #e89154);
+  background: linear-gradient(145deg, #fcd9be, #fb88be);
 }
 
 .food-juice {
-  background: linear-gradient(145deg, #ffe7be, #f7af55);
+  background: linear-gradient(145deg, #ffe7be, #fb88be);
 }
 
 .food-brownie {
-  background: linear-gradient(145deg, #eacab0, #b77a55);
+  background: linear-gradient(145deg, #eacab0, #fb88be);
 }
 
 .menu-card-content {
