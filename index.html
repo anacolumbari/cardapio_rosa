@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page - cardapio da vila</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.webmanifest" />
+</head>
+<body class="landing-page">
+    <main class="landing-shell">
+    <section class="landing-card">
+        <div class="brand-mark">
+            <img src="./icons/icon-192 (2).png" alt="logo do restaurante">
+        </div>
+        <p clas="eyebrow">Cardapio Digital</p>
+        <p class="landing-highlight">Seu cardapio favorito, na web ou no app</p>
+        <p class="landing-description">
+            Escolha como desejar acessar o cardapio. Voce pode continuar pelo
+            navegador ou instalar o aplicativo no seu dispositivo
+        </p>
+        <div class="landing-actions">
+            <a href="./cardapio.html" class="button button-secondary">Acesso a versao web</a>
+            <button 
+            id="install-button"
+            class="button button-primary"
+            type="button"
+            hidden 
+            >Instale o aplicativo</button>
+
+            <button>
+                <div>
+                    <p id="install-message" class="install-message">
+                        Se a opcao de instalacao estiver disponivel, ela aparecera aqui
+                    </p>
+                </div>
+            </button>
+        </div>
+    </section>
+    </main>
+    <script src="./lading.js"></script>
+</body>
+</html>
