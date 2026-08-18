@@ -1,6 +1,6 @@
 {
   "name": "cardapio",
-  "short_name": "PWA",
+  "short_name": "Cardápio",
   "start_url": "./cardapio.html",
   "display": "standalone",
 
